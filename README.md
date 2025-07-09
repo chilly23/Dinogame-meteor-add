@@ -27,8 +27,8 @@ Offline Gameplay	Online Transition
 classic dino run	meteors falling + crash
 
 <h2>How It Works</h2>
-<li><ul>
-- When the game starts offline, it's just like normal.
-- After a delay (e.g., 5 seconds), if you're online, the meteorsEnabled flag is triggered.
-- Multiple meteors fall from the top with random speed and direction.
-- Upon hitting the horizon 3 times, the game ends with a custom “User is Online” crash screen.</ul></li>
+<li>
+  <ul>When the game starts offline, it's just like normal.</ul>
+  <ul>After a delay (e.g., 5 seconds), if you're online, the meteorsEnabled flag is triggered.</ul>
+- <ul>Multiple meteors fall from the top with random speed and direction.</ul>
+- <ul>Upon hitting the horizon 3 times, the game ends with a custom “User is Online” crash screen.</ul></li>
